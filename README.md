@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <div width="70%">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
-<div>
+
 - 👋 Hi I'm <a href="https://github.com/sktyut/" target="_blank">@sktyut</a>
 - 🔭 I’m currently working on SXCTC
 - 🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue
-</div>
+
 
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut&layout=compact)](https://github.com/sktyut/github-readme-stats)

@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div width="70%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<div width="70%" align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight&hide_title=true" />
 </div>
 
 - 👋 Hi I'm <a href="https://github.com/sktyut/" target="_blank">@sktyut</a>

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div width="70%" align="right">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight&hide_title=true" />
 </div>
 
 - 👋 Hi I'm <a href="https://github.com/sktyut/" target="_blank">@sktyut</a>

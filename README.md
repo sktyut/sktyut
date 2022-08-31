@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi I'm @sktyut
-🔭 I’m currently working on SXCTC
-🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue
-
+<ul>
+  <li>👋 Hi I'm @sktyut</li>
+  <li>🔭 I’m currently working on SXCTC</li>
+  <li>🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue</li>
+</ul>
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut)](https://github.com/sktyut/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut&layout=compact)](https://github.com/sktyut/github-readme-stats)

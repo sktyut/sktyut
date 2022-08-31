@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sktyut/sktyut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi I'm @sktyut
+🔭 I’m currently working on SXCTC
+🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut)](https://github.com/sktyut/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut&layout=compact)](https://github.com/sktyut/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight)

@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>👋 Hi I'm @sktyut</li>
+  <li>👋 Hi I'm <a href="https://github.com/sktyut/">@sktyut</a></li>
   <li>🔭 I’m currently working on SXCTC</li>
   <li>🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue</li>
 </ul>
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut)](https://github.com/sktyut/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut&layout=compact)](https://github.com/sktyut/github-readme-stats)
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight)
+![sktyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight)
+

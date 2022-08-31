@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi I'm <a href="https://github.com/sktyut/">@sktyut</a></li>
-- 🔭 I’m currently working on SXCTC</li>
-- 🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue</li>
+- 👋 Hi I'm <a href="https://github.com/sktyut/">@sktyut</a>
+- 🔭 I’m currently working on SXCTC
+- 🌱 I’m currently learning DeepLearning/JFinal/SpringBoot/Vue
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktyut&layout=compact)](https://github.com/sktyut/github-readme-stats)
 ![sktyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=sktyut&show_icons=true&theme=tokyonight)
 
